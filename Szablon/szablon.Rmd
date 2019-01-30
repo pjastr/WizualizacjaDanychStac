@@ -31,7 +31,7 @@ use_python("C:\\Users\\Piotrek\\AppData\\Local\\Programs\\Python\\Python37\\pyth
 ```
 
 ```{python}
-print("Hello world!")
+print("Hello world !")
 ```
 
 
