@@ -8,9 +8,9 @@ Orientacyjne tematy i terminy wykładów:
 
 5.04.2019 - Numpy, scipy - kontyunacja.
 
-12.04.2019 - Darmowe repozytoria do sampli. Pandas. Koncepcja "tidy data".
+12.04.2019 - Pandas. Koncepcja "tidy data". Darmowe repozytoria do sampli.
 
-26.04.2019 - Alternatywne koncepcje "tidy data". mathplotlib, seaborn.
+26.04.2019 - Alternatywne koncepcje "tidy data", Darmowe repozytoria do sampli - cd. mathplotlib, seaborn.
 
 10.05.2019 - mathplotlib, seaborn - kontynuacja.
 
