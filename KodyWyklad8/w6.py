@@ -7,3 +7,4 @@ X = np.arange(4)
 plt.barh(X, women_pop, color='r')
 plt.barh(X, -men_pop, color='b')
 plt.show()
+

@@ -4,7 +4,7 @@ import seaborn as sb
 
 x = np.arange(14)
 y = np.cos(5 * x)
-#sb.set()
+# sb.set()
 plt.plot(x, y + 2, 'blue', linestyle="-", label="niebieski")
 
 plt.plot(x, y + 1, 'red', linestyle=":", label="czerwony")

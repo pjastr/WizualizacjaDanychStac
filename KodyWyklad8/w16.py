@@ -5,7 +5,7 @@ import seaborn as sb
 fig, ax1 = plt.subplots()
 t = np.arange(0.01, 10.0, 0.01)
 s1 = np.exp(t)
-#sb.set()
+# sb.set()
 ax1.plot(t, s1, 'b-')
 ax1.set_xlabel('time (s)')
 
