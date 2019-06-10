@@ -5,8 +5,7 @@ data = pd.read_csv("ludnosc.csv", sep=";")
 import numpy as np
 import matplotlib.pyplot as plt
 
-women_pop = np.array([5., 30., 45., 22.])
-men_pop = np.array([5., 25., 50., 20.])
+
 men= data[data["Płeć"]=="mężczyźni"].iloc[1:,:]
 men=men.drop(men.index[-1])
 men=men.drop(men.index[-5])
